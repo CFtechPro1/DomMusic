@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.dommusic.com/</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=home</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=login</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=sales_login</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=search_music&amp;adv=1</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=about</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=video_reel</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=credits</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=contact</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=gothtronica</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=get_pass</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=get_pass&amp;change=1</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=search_music&amp;adv=1&amp;cbs=0</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=search_music</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=ione</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=mapother</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=tate</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=experiment</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=ftb2</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=avatar</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=mungo</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/video/dsp_video.cfm?id=hidden</loc>
+</url>
+<url>
+  <loc>http://www.dommusic.com/index.cfm?fa=search_music&amp;adv=0&amp;cbs=0</loc>
+</url>
+</urlset>
